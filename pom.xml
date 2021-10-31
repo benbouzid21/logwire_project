@@ -207,10 +207,10 @@
   </dependencyManagement>
 
   <scm>
-    <connection>scm:git@gitlab.com:khlifidev1/projet_j2e.git</connection>
-    <developerConnection>scm:git@gitlab.com:khlifidev1/projet_j2e.git</developerConnection>
+    <connection>scm:git@github.com:benbouzid21/logwire_project.git</connection>
+    <developerConnection>scm:git@github.com:benbouzid21/logwire_project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>https://gitlab.com/khlifidev1/projet_j2e</url>
+    <url>https://github.com:benbouzid21/logwire_project</url>
   </scm>
 
   <prerequisites>
